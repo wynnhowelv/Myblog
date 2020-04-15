@@ -1,5 +1,5 @@
-baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+baseURL = "http://wynnhowelv.github.io/"
+title = "Wynnhowe.lv's Blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ buildFuture = true
 copyright = "&copy;{year}, All Rights Reserved"
 timeout = 10000
 enableEmoji = true
-paginate = 13
+paginate = 10
 rssLimit = 100
 
-enableGitInfo = false
+enableGitInfo = true
 googleAnalytics = ""
 
 [markup]
